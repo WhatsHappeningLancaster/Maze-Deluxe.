@@ -8,7 +8,7 @@ This is for personal use as a simple game. You can download
 the repo with
 
 ```bash
-git clone https://github.com/WhatsHappeningLancaster/Maze-Deluxe..git
+git clone https://github.com/WhatsHappeningLancaster/Maze-Deluxe.git
 ```
 
 ## Contribution
